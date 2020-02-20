@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Bg">#F3EFEF</color>
+    <color name="app_color">#c52127</color>
+    <color name="black">#2F2F2F</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="colorAccent">#FFB900</color>
+    <color name="colorBg">#F8F0D7</color>
+    <color name="colorPrimary">#FFB900</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorwhite_10">#1Affffff</color>
+    <color name="colorwhite_30">#4Dffffff</color>
+    <color name="colorwhite_50">#CCffffff</color>
+    <color name="darkgray">#93959A</color>
+    <color name="delete_message_bg">#f2f2f2</color>
+    <color name="delete_message_text">#b8b8b8</color>
+    <color name="dimgray">#696969</color>
+    <color name="fifty_transparent_black">#802F2F2F</color>
+    <color name="four">#FEBF2C</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="graycolor">#D3D3D3</color>
+    <color name="lightblack">#5d5d5d</color>
+    <color name="lightgraycolor">#f2f2f2</color>
+    <color name="maincolor">#E25E14</color>
+    <color name="one">#FF6262</color>
+    <color name="redcolor">#ff0008</color>
+    <color name="sbigtext">#4e4e4e</color>
+    <color name="smalltext">#707070</color>
+    <color name="three">#91DA6F</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="two">#5FCBF4</color>
+    <color name="white">#FFFFFF</color>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+    </style>
+    <style name="Name" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowBackground">@android:drawable/alert_dark_frame</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

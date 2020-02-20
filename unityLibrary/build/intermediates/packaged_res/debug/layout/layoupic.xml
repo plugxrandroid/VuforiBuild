@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="@dimen/_200sdp"
+    android:layout_height="@dimen/_300sdp"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_gravity="right|top"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:adjustViewBounds="true"
+                android:id="@+id/imageCapture"/>
+
+
+
+
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="top">
+
+
+                <ImageView
+                    android:id="@+id/close"
+                    android:padding="@dimen/_5sdp"
+                    android:layout_width="@dimen/_30sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_gravity="center|right"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:layout_marginRight="@dimen/_15sdp"
+                    android:background="@drawable/close"/>
+
+
+            </FrameLayout>
+
+
+
+        </FrameLayout>
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="bottom">
+
+    <com.unity3d.player.customfonts.MyButton
+        android:id="@+id/share"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="@dimen/_35sdp"
+        android:background="@color/Bg"
+        android:text="Share"
+        android:textAllCaps="false"
+        android:textColor="@color/sbigtext"
+        android:textSize="@dimen/_14sdp"/>
+
+
+
+    <com.unity3d.player.customfonts.MyButton
+        android:id="@+id/delete"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="@dimen/_35sdp"
+        android:background="@color/colorAccent"
+        android:text="Delete"
+        android:textAllCaps="false"
+        android:textColor="@color/sbigtext"
+        android:textSize="@dimen/_14sdp"/>
+
+
+</LinearLayout>
+
+    </LinearLayout>
+

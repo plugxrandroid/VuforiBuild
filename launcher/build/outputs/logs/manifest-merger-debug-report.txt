@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:3:1-76:12
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.material:material:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/97bfef9521103d81357fd0933a0a636b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/79e26113ac0575f410c4a5a8d0c73586/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/a3b0c9251833eacd60535e91a1f120bb/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/0cd444e59aaae9396e6d74c6a7973254/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.nisrulz:screenshott:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e7c651f32d7d008196d1ab178f2e3ba/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/55c309c29b0b02485d2455631b3e4f6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/924f22b65d5859d696aecb68c047b5e7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/622dcbdd7483204833401fc021fa39f9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/cc2fd5fab212e13f8c795ca541f652ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/53a2f07f5f3ac99747467ebcf1902069/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c1eebbbdef1152864a3b231e6eeec714/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/e9954adb08ee60d7c115b4ce0a9fd77a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c0912dec9ba4286b2e9f9fff0ecd792a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/8377ade44826c58e1fae130528c39db4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/01f516b9ec5e73aa6679a65e06c9a869/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/017d0304d21669dc290a4103d1be021e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/dcb7564247d4a36727c391d8afe8ca99/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/d007bd8c68f28150ab74e84692c653cc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/25ae976db3953494b299ad3db1390f0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c9ac5d4fe85cd5b2bd9506c3c248bfd7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/9c26b8d2590ae139a285afbe89a799a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/f2776b58bc64de2c9e4170bbfa93b6f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/715c9c38097b8006101189de4c731970/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/35e12567485635d9e6053e309bba9177/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/ca1c01bfd4110369c97b739a95e818c2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1371d2d847cbe29694d2448681d61b26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/5818d20aa9d0fade6d0886cb25a41a2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/32db5270266e3432293e7868df847a3f/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/551be6d51362baeeccc28e5da10b92b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/40ba7dd0eb3b80242bdf774052f5d11d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4c4cfd9d8f97c303c165334cb58543b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/df148350cb4c4fc78b0e30f2e2a060eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/dc66f927371e8b578a2d1db97bdfd22d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e5f08d4c49e8127f71838a934fea27f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/a8ab1fb28b7dc7d07f196d80067a93b8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/7a0899e11d51bcd906587bc34788bdc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/d34eda09ced2e502c070fdfe8356d72e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4a2e9351f98e4e8d2156051c7f310d99/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:70-102
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:103-149
+	android:versionCode
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:150-190
+supports-screens
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:5-74:19
+MERGED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:5-74:19
+MERGED from [com.google.android.material:material:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/97bfef9521103d81357fd0933a0a636b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/97bfef9521103d81357fd0933a0a636b/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/a3b0c9251833eacd60535e91a1f120bb/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/a3b0c9251833eacd60535e91a1f120bb/AndroidManifest.xml:9:5-20
+MERGED from [com.github.nisrulz:screenshott:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e7c651f32d7d008196d1ab178f2e3ba/AndroidManifest.xml:28:5-29:19
+MERGED from [com.github.nisrulz:screenshott:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e7c651f32d7d008196d1ab178f2e3ba/AndroidManifest.xml:28:5-29:19
+MERGED from [androidx.core:core:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/ca1c01bfd4110369c97b739a95e818c2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/ca1c01bfd4110369c97b739a95e818c2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/32db5270266e3432293e7868df847a3f/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/32db5270266e3432293e7868df847a3f/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/ca1c01bfd4110369c97b739a95e818c2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.android.material:material:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/97bfef9521103d81357fd0933a0a636b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/97bfef9521103d81357fd0933a0a636b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/79e26113ac0575f410c4a5a8d0c73586/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/79e26113ac0575f410c4a5a8d0c73586/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/a3b0c9251833eacd60535e91a1f120bb/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/a3b0c9251833eacd60535e91a1f120bb/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/0cd444e59aaae9396e6d74c6a7973254/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/0cd444e59aaae9396e6d74c6a7973254/AndroidManifest.xml:20:5-44
+MERGED from [com.github.nisrulz:screenshott:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e7c651f32d7d008196d1ab178f2e3ba/AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.nisrulz:screenshott:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e7c651f32d7d008196d1ab178f2e3ba/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/55c309c29b0b02485d2455631b3e4f6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/55c309c29b0b02485d2455631b3e4f6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/924f22b65d5859d696aecb68c047b5e7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/924f22b65d5859d696aecb68c047b5e7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/622dcbdd7483204833401fc021fa39f9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/622dcbdd7483204833401fc021fa39f9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/cc2fd5fab212e13f8c795ca541f652ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/cc2fd5fab212e13f8c795ca541f652ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/53a2f07f5f3ac99747467ebcf1902069/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/53a2f07f5f3ac99747467ebcf1902069/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c1eebbbdef1152864a3b231e6eeec714/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c1eebbbdef1152864a3b231e6eeec714/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/e9954adb08ee60d7c115b4ce0a9fd77a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/e9954adb08ee60d7c115b4ce0a9fd77a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c0912dec9ba4286b2e9f9fff0ecd792a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c0912dec9ba4286b2e9f9fff0ecd792a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/8377ade44826c58e1fae130528c39db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/8377ade44826c58e1fae130528c39db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/01f516b9ec5e73aa6679a65e06c9a869/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/01f516b9ec5e73aa6679a65e06c9a869/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/017d0304d21669dc290a4103d1be021e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/017d0304d21669dc290a4103d1be021e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/dcb7564247d4a36727c391d8afe8ca99/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/dcb7564247d4a36727c391d8afe8ca99/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/d007bd8c68f28150ab74e84692c653cc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/d007bd8c68f28150ab74e84692c653cc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/25ae976db3953494b299ad3db1390f0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/25ae976db3953494b299ad3db1390f0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c9ac5d4fe85cd5b2bd9506c3c248bfd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/c9ac5d4fe85cd5b2bd9506c3c248bfd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/9c26b8d2590ae139a285afbe89a799a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/9c26b8d2590ae139a285afbe89a799a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/f2776b58bc64de2c9e4170bbfa93b6f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/f2776b58bc64de2c9e4170bbfa93b6f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/715c9c38097b8006101189de4c731970/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/715c9c38097b8006101189de4c731970/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/35e12567485635d9e6053e309bba9177/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/35e12567485635d9e6053e309bba9177/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/ca1c01bfd4110369c97b739a95e818c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/ca1c01bfd4110369c97b739a95e818c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1371d2d847cbe29694d2448681d61b26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1371d2d847cbe29694d2448681d61b26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/5818d20aa9d0fade6d0886cb25a41a2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/5818d20aa9d0fade6d0886cb25a41a2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/32db5270266e3432293e7868df847a3f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/32db5270266e3432293e7868df847a3f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/551be6d51362baeeccc28e5da10b92b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/551be6d51362baeeccc28e5da10b92b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/40ba7dd0eb3b80242bdf774052f5d11d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/40ba7dd0eb3b80242bdf774052f5d11d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4c4cfd9d8f97c303c165334cb58543b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4c4cfd9d8f97c303c165334cb58543b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/df148350cb4c4fc78b0e30f2e2a060eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/df148350cb4c4fc78b0e30f2e2a060eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/dc66f927371e8b578a2d1db97bdfd22d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/dc66f927371e8b578a2d1db97bdfd22d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e5f08d4c49e8127f71838a934fea27f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e5f08d4c49e8127f71838a934fea27f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/a8ab1fb28b7dc7d07f196d80067a93b8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/a8ab1fb28b7dc7d07f196d80067a93b8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/7a0899e11d51bcd906587bc34788bdc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/7a0899e11d51bcd906587bc34788bdc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/d34eda09ced2e502c070fdfe8356d72e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/d34eda09ced2e502c070fdfe8356d72e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4a2e9351f98e4e8d2156051c7f310d99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4a2e9351f98e4e8d2156051c7f310d99/AndroidManifest.xml:20:5-44
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:9:5-67
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-65
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:10:5-65
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-62
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-20:36
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:7:5-60
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:7:5-60
+	android:required
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:9-33
+		MERGED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-53
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-81
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:12:5-81
+MERGED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:12:5-81
+MERGED from [com.github.nisrulz:screenshott:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e7c651f32d7d008196d1ab178f2e3ba/AndroidManifest.xml:26:5-81
+MERGED from [com.github.nisrulz:screenshott:1.1.3] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/4e7c651f32d7d008196d1ab178f2e3ba/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:22-78
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:9-63:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-194
+	android:allowBackup
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-40
+	android:theme
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-54
+	tools:replace
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:13-48
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-59:40
+	android:value
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:17-37
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:17-57
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-62:41
+	android:value
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:17-38
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:17-71
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:9-67:33
+	android:value
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:13-30
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:9-70:36
+	android:value
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-33
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:13-47
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:9-73:68
+	android:value
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-65
+	android:name
+		ADDED from [:unityLibrary] /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:13-42
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] /home/plugxr-android/.gradle/caches/transforms-2/files-2.1/1b3d3eb1fe974f48803ca1110c70f094/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12 reason: com.vuforia.engine.app has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/launcher/src/main/AndroidManifest.xml:3:1-6:12 reason: com.vuforia.engine.app requested WRITE_EXTERNAL_STORAGE

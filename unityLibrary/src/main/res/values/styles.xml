@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+    </style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="Name" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowBackground">@android:drawable/alert_dark_frame</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

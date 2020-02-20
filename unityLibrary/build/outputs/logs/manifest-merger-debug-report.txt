@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+	package
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:70-98
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:99-145
+	android:versionCode
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:1-39:12
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:4:3-28:17
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:5:5-24:16
+	android:screenOrientation
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:8:9-45
+	android:launchMode
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:9:9-40
+	android:hardwareAccelerated
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:13:9-44
+	android:configChanges
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:12:9-190
+	android:allowBackup
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:7:9-50
+	tools:replace
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:6:9-62
+meta-data#unityplayer.UnityActivity
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:20:7-82
+	android:value
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:20:59-79
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:20:18-58
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:21:9-23:15
+	android:value
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:22:68-89
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:22:13-67
+meta-data#unity.splash-mode
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:25:5-69
+	android:value
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:25:49-66
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:25:16-48
+meta-data#unity.splash-enable
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:26:5-74
+	android:value
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:26:51-71
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:26:16-50
+meta-data#unity.build-id
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:27:5-101
+	android:value
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:27:46-98
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:27:16-45
+uses-feature#0x00020000
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:29:3-52
+	android:glEsVersion
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:29:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:30:3-65
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:30:20-62
+uses-permission#android.permission.CAMERA
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:31:3-63
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:31:20-60
+uses-feature#android.hardware.camera
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:32:3-83
+	android:required
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:32:56-80
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:32:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:33:3-93
+	android:required
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:33:66-90
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:33:17-65
+uses-feature#android.hardware.camera.front
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:34:3-89
+	android:required
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:34:62-86
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:34:17-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:35:3-79
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:35:20-76
+uses-feature#android.hardware.touchscreen
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:36:3-88
+	android:required
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:36:61-85
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:36:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:37:3-99
+	android:required
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:37:72-96
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:37:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:38:3-108
+	android:required
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:38:81-105
+	android:name
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml:38:17-80
+uses-sdk
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/plugxr-android/Desktop/Plugxr/UnityProject/PlugXR_Native_FreeApk_V75/unityLibrary/src/main/AndroidManifest.xml

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.plugxrinc.PlugXR_D.test">
+
+    <uses-sdk android:minSdkVersion="22" android:targetSdkVersion="28" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.plugxrinc.PlugXR_D"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.plugxrinc.PlugXR_D"/>
+</manifest>
